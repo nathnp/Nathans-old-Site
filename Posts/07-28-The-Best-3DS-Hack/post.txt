@@ -1,0 +1,28 @@
+Date: 2022-07-28
+Tags: Modding
+Permalink: /2022/07/the-best-3ds-hack/
+
+# The Best 3DS Hack
+
+Warning, this post contains strong language and suggestive words
+
+Have you ever wanted to name a Pokemon something, fun? Or make your Mii say something crude? Well now we can.
+
+* * *
+
+Disclaimer, This is NOT a tutorial, I take no responsibility for bricked or damaged consoles.
+---------------------------------------------------------------------------------------------
+
+Back in the good ol' days on the gameboy, we could name our Pokemon whatever we wanted. Names like "FUCK, I" "TITS" and "COCK" were all on the table. Unfortunately newer games started to block fun words like those. Forcing players to be very creative. Times have changed though, and now we can remove the profanity filter, on all 3ds games.
+
+The 3ds is interesting, most people would think each game would have a list of banned words. This isn't the case, the word lists are actually part of the 3ds's OS. This makes sense when you think about it. Game devs don't have to come up with their own, and Nintendo can easily update it.
+
+The hack just replaces the built in word lists, with "fake" ones, Simple. The author's [reddit post](https://old.reddit.com/r/3dshacks/comments/w9vmtw/how_to_remove_the_profanity_filter_without/) goes into detail how how this works.
+
+     my solution was to attempt to keep the general structure of how the files originally were, and just add one swear for each file (ImASwearWord, ImASwearWordtwo, ImASwearWordthree, and so on until ImASwearWordsixteen) 
+
+Overall, It's a simple hack, but one of my favorites. Here are a few screenshots taking advantage of the new "filter"
+
+![](_HR0clLBo.png)
+
+![](_Tuo0mMFu.png)

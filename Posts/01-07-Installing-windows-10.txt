@@ -1,0 +1,22 @@
+Date: 2022-01-07
+Permalink: /2022/01/installing-windows-10/
+
+# Installing windows 10
+
+I recently enrolled in some classes at the University on Minnesota (Thank you work for paying for them). That sent me down a windows rabbit hole I wasn't expecting.
+
+My cybersecurity classes at UMN require a computer running windows 10 (or x86_64 macOS, but the mac I have is an ARM mac), alright no big deal. My main laptop is a Framework Laptop running fedora. For those not aware, the framework has four bays that port cards to can popped in to… or drives. I ordered a 1TB drive that pops into one of the bays, and cloned my fedora install to it.
+
+It has been a good while since I have installed windows 10, so I went to Microsoft's website. After downloading the ISO and flashing it to a flash drive… it didn't work. OK, it did boot fine, however I quickly got an error saying how I was missing a device driver, and to load it if I had it.
+
+Uhh… [wat](https://www.youtube.com/watch?v=ldda7vhmuxU)
+
+So, I started searching online. Didn't find much on the Framework forum, but I did find stuff from Dell and HP. Both pretty much said, that's just the windows installer not liking 11th gen Intel and nvme… Alright, drivers, just need the right driver. The Framework driver bundle is for after windows is installed. I need one to make the installer happy. My laptop has an i7-1165G7, nvme is PCIe, PCIe is handled by the CPU. A quick trip to Intel's website and I had the windows driver for my CPU… It didn't work. The installer didn't see it as a driver.
+
+Maybe the ISO on Microsoft's site was out of date… very out of date, so I needed to make a fresh one. Booting back into fedora, I spun up a VM and installed windows 10 (no i cant do that for classes, they need windows to be the host OS). After installing 10 in a VM, I installed the windows media creation tool from Microsoft, and told it to make an ISO. Flashing that to a flash drive, and I got the same [error](https://www.youtube.com/watch?v=ldda7vhmuxU)…
+
+what the hell, windows, just… what the hell.
+
+Alright, I have one last option, have the windows VM make the flash drive for me. I don't see how that will be any different, but its my last option for now. so, I told windows to do that, and the VMs drive was too small for it to do that… After making a new VM, I passed my flash drive through to the VM, and told it to make it a windows install drive. booting off the drive and… it worked. what the hell windows.
+
+So, after all that. The ISO on Microsoft's website doesn't work, and you need windows to install windows.

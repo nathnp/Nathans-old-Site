@@ -1,0 +1,25 @@
+Date: 2021-10-27
+Permalink: /2021/10/bst-breaking-into-a-cash-office/
+
+# BST: Breaking into a cash office
+
+What do you do when you're outside of a locked cash office… you brake in.
+
+So to start, I worked in that cash office at the time and I was on the clock. Don't break in to places. I take no responsibility for your stupidity.
+
+* * *
+
+So I was at work one night, closing down the store. I stepped out of the cash office, and the door closed. Only then did I realize… I left my work keys in there. I had to do a think, go over my options. I was the only key holder in the building, and there wasn't a spare key… I had three options.
+
+*   [ ] Call someone
+*   [ ] Wait for night crew
+*   [x] DEFCON it up
+
+I have watched a few too many DEFCON talks, and it was time for those to shine. I was going to break in.  
+Picking the lock was out of the question, I didn't have my picks with me, nor did I have the skills to pick a lock made by BEST (still don't). Now those who have also watched too much DEFCON might think "just slip the latch". Unfortunately, that wasn't going to work, the door was actually installed correctly. The door also had security hinges, so I wasn't going to be able to take it off the frame (I cased the office when it was built). I had to open the door, using the inside handle.
+
+Opening a door from the inside from the outside, there's a couple ways to do that. An under-door attack, or over-door attack. These are pretty similar, pass a tool either under, or over the door to use the inside handle. I couldn't find anything to pass under the door, but I had just what I needed for an over door attack.
+
+Receipt paper, and tape. Now, if your lost, I'm going to do whats showed in [this vid from LPL](https://youtu.be/byYGPO4ptxs). So I rolled a long thing of receipt paper, lined it with some paper tape, and folded it hamburger style (though I guess at this length everything is a hotdog). Threading it over the door and looping it over the handle, I pulled… and it snapped, right at the fold point. After taping it back together, I added some plastic tape at the fold and went back at it. It took me a bit to get the now thicker fold point through the frame. Once I got it in, looped over the handle, pulled, and the door opened.
+
+In short, keep your keys on you.
