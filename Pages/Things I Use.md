@@ -5,7 +5,7 @@ Menu: Yes
 
 # Things I Use
 
-Jump to: [Hardware](#hardware) | [Servers](#servers) | [Software](#software) | [Web Tools](#webtools)
+Jump to: [Hardware](#hardware) | [Home Servers](#servers) | [Software](#software) | [Web Tools](#webtools)
 
 For a list of podcast and blog I like, go [here](/my-feeds).
 <div id="hardware" />
@@ -29,7 +29,7 @@ Car: 2015 [Honda](https://youtu.be/w9KYDQry2nQ) Accord Coupe EX-L w/ 2.4L I-VTEC
 Aircraft: DJI Mavic air 2 / DJI FPV
 <div id="servers" />
 
-### Servers [🔗](/things-i-use#servers)
+### Home Servers [🔗](/things-i-use#servers)
 
 NAS: [Synology DS418](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/18-year/DS418/enu/Synology_DS418_Data_Sheet_enu.pdf) w/ 8.7 TB storage
 
@@ -42,7 +42,7 @@ UniFi Console: [Cloudkey Gen 2 Plus](https://store.ui.com/us/en/products/unifi-c
 
 ## Software [🔗](/things-i-use#software)
 
-OS: macOS 13 / Fedora Workstation 38
+OS: [macOS 13](https://en.wikipedia.org/wiki/MacOS_Ventura) / [Fedora](https://fedoraproject.org) Workstation 38
 
 Email: [iCloud Mail](https://icloud.com) + [SimpleLogin](https://simplelogin.io)
 
