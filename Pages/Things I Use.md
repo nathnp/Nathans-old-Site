@@ -64,6 +64,8 @@ Podcasts: [Overcast](https://overcast.fm)
 
 Video Editor: [Final Cut Pro](https://www.apple.com/final-cut-pro/)
 
+Vid To GIF Convertor: [Apple Compressor](https://support.apple.com/compressor)
+
 Photo Editor [Affinity Photo 2](https://affinity.serif.com/en-us/photo/)
 
 FTP Client: [Tansmit 5](https://panic.com/transmit/)
