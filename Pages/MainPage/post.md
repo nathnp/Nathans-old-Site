@@ -7,7 +7,7 @@ Page: Yes
 # Hi, I'm Nathan
 
 I am a person who enjoys many things, including:
-Geocaching, Servers, ARM systems, UNIX, LINUX, Flying, UASs§, Metros, and much more.
+Geocaching, Servers, ARM systems, UNIX, LINUX, Flying, UASs§, Transit Systems, and much more.
 
 I'm also the admin of the [Crabland.social](https://info.crabland.social) Mastodon server.
 

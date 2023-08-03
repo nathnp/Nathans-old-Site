@@ -7,7 +7,7 @@ Draft: No
 # The Day-cation [🔗](#daycation)
 
 Jump to: [The Idea](#idea) | [Planing](#planing) | [The Trip](#trip) | [Thoughts](#thoughts) <br>
-Quick Links: [Trip Photos](https://www.flickr.com/photos/197704187@N04/albums/72177720310228473/with/53090315338/)
+Quick Links: [Trip Photos](https://www.flickr.com/photos/197704187@N04/albums/72177720310228473)
 
 I've always loved a good vacation, who doesn't. But vacations take time. Time to plan. And time to take. Why not just take a day trip, you say. Why not to drive somewhere for a day, you ask. I live near DC, so a day trip is going down to DC for the whatever-ith time. 
 <div id="idea" />
@@ -78,7 +78,7 @@ We took the train back to ATL, and waited for a couple hours in the TSA line. AT
 
 This Day-cation was fantastic, and one I highly recommend to my co-workers. As for my friend, he had to find a new excuse to not go to his thing. As we changed days to get the flight down from $80, to $50. We just couldn't not take a $50 round trip flight.
 
-Check out my [Flicker Album](https://www.flickr.com/photos/197704187@N04/albums/72177720310228473/with/53090315338/) of the trip.
+Check out my [Flicker Album](https://www.flickr.com/photos/197704187@N04/albums/72177720310228473) of the trip.
 
 
 
