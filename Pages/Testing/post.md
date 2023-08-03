@@ -4,7 +4,11 @@ Menu: No
 
 # testing page
 
-This is a test[^1]
+You found my testing page, where I test things, welcome[^1]
+
+This is a test[^2]
+
+Test pic [^pic]
 
 ```python
 list = ["thing1", "thing2", "thing c"]
@@ -24,4 +28,19 @@ for dir in */; do
 done
 ```
 
-[^1]: Sure it is
+[^1]: pls leave
+
+[^2]: Sure it is
+
+[^pic]: ![](_pics/fig1.png)
+
+|                | South West   | Spirit       |
+|----------------|--------------|--------------|
+| Checked Bags   | 2 Free       | Extra Charge |
+| Cary on        | Free         | Extra Charge |
+| Inflight WiFi  | Extra Charge | Extra Charge |
+| Free Messaging | Yes          | No           |
+| Soda           | Free         | Extra Charge |
+| Alcohol        | Extra Charge | Extra Charge |
+| Movies         | Yes          | No           |
+| Tray Table     | Yes          | Lol, No      |

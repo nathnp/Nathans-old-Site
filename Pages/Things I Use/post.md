@@ -20,6 +20,8 @@ Watch: [Apple Watch Ultra](https://en.wikipedia.org/wiki/Apple_Watch#Eighth_gene
 
 Laptops: Late 2020 M1 MacBook Pro / 11th gen i7 Framework 13
 
+Keyboard: [WASD VP3 w/ MX Blues](https://www.wasdkeyboards.com/wasd-vp3-61-key-doubleshot-pbt-black-slate-mechanical-keyboard.html)
+
 Gaming: 512GB [Steam Deck](https://www.steamdeck.com/en/) + [PS5](https://www.playstation.com/en-us/ps5/)
 
 VR: [PSVR2](https://www.playstation.com/en-us/ps-vr2/?smcid=pdc%3Aen-us%3Aaccessories%3Aprimary%20nav%3Amsg-hardware%3Aps-vr2) on [PS5](https://www.playstation.com/en-us/ps5/)
