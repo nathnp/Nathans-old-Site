@@ -7,7 +7,7 @@ Page: Yes
 # Hi, I'm Nathan
 
 I am a person who enjoys many things, including:
-Geocaching, Servers, ARM systems, UNIX, LINUX, Flying, UASs§, Transit Systems, and much more.
+Geocaching, Servers, ARM systems, UNIX, LINUX, Flying, UASs[^1], Transit Systems, and much more.
 
 I'm also the admin of the [Crabland.social](https://info.crabland.social) Mastodon server.
 
@@ -15,6 +15,6 @@ You can read my [Blog](https://nthp.me/page/1) or follow me on <a rel="me" href=
 
 If you need to get in touch, you can [contact](https://nthp.me/contact) me [here](mailto:n.contact.rsigb@securefart.com).
 
-§ I am licensed by the [FAA](https://www.faa.gov) under [14CFR107](https://www.faraim.org/faa/far/cfr/title-14/part-107/index.html) for commercial operation  
+[^1]: I am licensed by the [FAA](https://www.faa.gov) under [14CFR107](https://www.faraim.org/faa/far/cfr/title-14/part-107/index.html) for commercial operation  
 
 </center>

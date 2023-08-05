@@ -14,11 +14,17 @@ Jump to: [Podcasts](#podcasts) | [Blogs](#blogs)
 
 ### Lehto's Law
 
+Posts: 1 - 3x per day <br>
+Length: ~10min
+
 Steve Lehto: author, attorney.  Over 30 years of practicing Michigan Lemon Law and more than a dozen books written.
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/lehtos-law/id937280934) | [Overcast](https://overcast.fm/itunes937280934/lehtos-law) | [PocketCasts](https://pca.st/ER7G) | [Youtube](https://www.youtube.com/@stevelehto)
 
 ### Techlinked
+
+Posts: Every Mon, Wed, Thu <br>
+Length: ~10min
 
 A thrice-weekly news show about tech + gaming culture
 
@@ -26,17 +32,26 @@ A thrice-weekly news show about tech + gaming culture
 
 ### The Casual Criminalist
 
+Posts: 1 - 2x per week <br>
+Length: 1 - 2hr
+
 True crime... casually done. Fact boy gives you new episodes on Mondays and Fridays. Also available on YouTube!
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-casual-criminalist/id1545318164) | [Overcast](https://overcast.fm/itunes1545318164/the-casual-criminalist) | [PocketCasts](https://pca.st/tipuxr73) | [Youtube](https://www.youtube.com/@TheCasualCriminalist)
 
 ### The Wan Show
 
+Posts: Every Fri (YouTube) / Mon (podcast) <br>
+Length: 2 - 3hr
+
 Every week Linus and Luke discuss the most current happenings in the technology universe
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-wan-show/id1062997995) | [Overcast](https://overcast.fm/itunes1062997995/the-wan-show) | [PocketCasts](https://pca.st/wanshow) | [Youtube](https://www.youtube.com/@LinusTechTips/streams)
 
 ### Liftoff (Simi-Active)
+
+Posts: When something big happens
+Length: ~30min
 
 Liftoff is a podcast about space, the universe, and everything. You don’t need to be a rocket scientist to understand the major developments as explained by enthusiastic space fans Stephen Hackett and Jason Snell. Hosted by Jason Snell and Stephen Hackett.
 
@@ -47,11 +62,15 @@ Liftoff is a podcast about space, the universe, and everything. You don’t need
 
 ### Hello Internet (Dead, most likely)
 
+Length: ~90min
+
 CGP Grey and Brady Haran talk about YouTube, life, work, whatever.
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/hello-internet/id811377230) | [Overcast](https://overcast.fm/itunes811377230/hello-internet) | [PocketCasts](https://pca.st/hellointernet)
 
 ### Unsealed: The Tylenol Murders (Finished)
+
+Length: ~30min
 
 In 1982, the nation was living in fear. One by one people in the Chicago area were dying. No one knew why — or who would be next. Law enforcement mobilized to answer the what, who and why. The what was Tylenol, laced with cyanide, placed randomly on store shelves to kill unsuspecting victims. But the who and the why? That would elude investigators for decades.
 

@@ -12,21 +12,25 @@ For a list of podcast and blog I like, go [here](/my-feeds).
 
 ## Hardware [🔗](/things-i-use#hardware)
 
-Phone: [iPhone 14 Pro](https://en.wikipedia.org/wiki/IPhone_14_Pro) in Space Black
+Phone: [iPhone 14 Pro](https://support.apple.com/kb/SP875?viewlocale=en_US&locale=en_US) in Space Black w/ 256GB Storage
 
-Tablet: [6th gen iPad mini](https://en.wikipedia.org/wiki/IPad_Mini_(6th_generation))
+Tablet: [6th gen iPad mini](https://support.apple.com/kb/SP850?locale=en_US)
 
-Watch: [Apple Watch Ultra](https://en.wikipedia.org/wiki/Apple_Watch#Eighth_generation_(Series_8,_SE_(2nd_gen),_&_Ultra))
+Watch: [Apple Watch Ultra](https://support.apple.com/kb/SP879?locale=en_US)
 
-Laptops: Late 2020 M1 MacBook Pro / 11th gen i7 Framework 13
+Laptop: [Late 2020 M1 MacBook Pro](https://support.apple.com/kb/SP824?locale=en_US) w/ 16GB Ram and 512GB Storage
 
-Keyboard: [WASD VP3 w/ MX Blues](https://www.wasdkeyboards.com/wasd-vp3-61-key-doubleshot-pbt-black-slate-mechanical-keyboard.html)
+Monitor: [LG UltraWide 35WN75C](https://www.lg.com/us/monitors/lg-35wn75c-b-ultrawide-monitor)
+
+Keyboard: [WASD VP3 w/ MX Blues](https://www.wasdkeyboards.com/wasd-vp3-61-key-doubleshot-pbt-black-slate-mechanical-keyboard.html)[^1]
+
+Mouse: [Logitech G502 Light Speed](https://www.logitechg.com/en-us/products/gaming-mice/g502-lightspeed-wireless-gaming-mouse.910-005565.html) w/ [Powerplay charging pad](https://www.logitechg.com/en-us/products/gaming-mouse-pads/powerplay-wireless-charging.943-000109.html)
 
 Gaming: 512GB [Steam Deck](https://www.steamdeck.com/en/) + [PS5](https://www.playstation.com/en-us/ps5/)
 
 VR: [PSVR2](https://www.playstation.com/en-us/ps-vr2/?smcid=pdc%3Aen-us%3Aaccessories%3Aprimary%20nav%3Amsg-hardware%3Aps-vr2) on [PS5](https://www.playstation.com/en-us/ps5/)
 
-Car: 2015 [Honda](https://youtu.be/w9KYDQry2nQ) Accord Coupe EX-L w/ 2.4L I-VTEC w/ CVT
+Car: 2015 [Honda](https://youtu.be/w9KYDQry2nQ) Accord Coupe EX-L w/ 2.4L I-VTEC w/ CVT[^2]
 
 Aircraft: DJI Mavic air 2 / DJI FPV
 <div id="servers" />
@@ -44,7 +48,7 @@ UniFi Console: [Cloudkey Gen 2 Plus](https://store.ui.com/us/en/products/unifi-c
 
 ## Software [🔗](/things-i-use#software)
 
-OS: [macOS 13](https://en.wikipedia.org/wiki/MacOS_Ventura) / [Fedora](https://fedoraproject.org) Workstation 38
+OS: [macOS 13](https://en.wikipedia.org/wiki/MacOS_Ventura)
 
 Email: [iCloud Mail](https://icloud.com) + [SimpleLogin](https://simplelogin.io)
 
@@ -82,3 +86,10 @@ Task Manager: [Todoist](https://todoist.com)
 ## Web Tools [🔗](/things-i-use#webtools)
 
 Email to RSS: [Kill The Newsletter](https://kill-the-newsletter.com)
+
+<br>
+
+Note: **None** of these link are affiliate links
+
+[^1]: ![](_pics/fig1.jpeg)
+[^2]: With bonus dog, Ruby <br> ![](_pics/fig2.jpeg)
