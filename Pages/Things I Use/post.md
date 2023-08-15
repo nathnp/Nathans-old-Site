@@ -7,7 +7,7 @@ Menu: Yes
 
 Jump to: [Hardware](#hardware) | [Home Servers](#servers) | [Software](#software) | [Web Tools](#webtools)
 
-For a list of podcast and blog I like, go [here](/my-feeds).
+For a list of podcasts and blogs I like, go [here](/my-feeds).
 <div id="hardware" />
 
 ## Hardware [🔗](/things-i-use#hardware)
@@ -26,7 +26,7 @@ Keyboard: [WASD VP3 w/ MX Blues](https://www.wasdkeyboards.com/wasd-vp3-61-key-d
 
 Mouse: [Logitech G502 Light Speed](https://www.logitechg.com/en-us/products/gaming-mice/g502-lightspeed-wireless-gaming-mouse.910-005565.html) w/ [Powerplay charging pad](https://www.logitechg.com/en-us/products/gaming-mouse-pads/powerplay-wireless-charging.943-000109.html)
 
-Gaming: 512GB [Steam Deck](https://www.steamdeck.com/en/) + [PS5](https://www.playstation.com/en-us/ps5/)
+Gaming: 512GB [Steam Deck](https://www.steamdeck.com/en/) Modded to 2TB + [PS5](https://www.playstation.com/en-us/ps5/)
 
 VR: [PSVR2](https://www.playstation.com/en-us/ps-vr2/?smcid=pdc%3Aen-us%3Aaccessories%3Aprimary%20nav%3Amsg-hardware%3Aps-vr2) on [PS5](https://www.playstation.com/en-us/ps5/)
 
@@ -37,7 +37,7 @@ Aircraft: DJI Mavic air 2 / DJI FPV
 
 ### Home Servers [🔗](/things-i-use#servers)
 
-NAS: [Synology DS418](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/18-year/DS418/enu/Synology_DS418_Data_Sheet_enu.pdf) w/ 8.7 TB storage
+NAS: [Synology DS418](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/18-year/DS418/enu/Synology_DS418_Data_Sheet_enu.pdf) w/ 8.7 TB storage using [SHR](https://kb.synology.com/en-us/DSM/tutorial/What_is_Synology_Hybrid_RAID_SHR)
 
 DNS: Raspberry Pi 4 w/ 4GB of ram
 
@@ -67,6 +67,8 @@ Clipboard History: [Pastebot](https://tapbots.com/pastebot/)
 RSS: [Miniflux](https://miniflux.app) / [Reeder 5](https://www.reederapp.com)
 
 Podcasts: [Overcast](https://overcast.fm)
+
+Video Downloader: [Downie](https://software.charliemonroe.net/downie)
 
 Video Editor: [Final Cut Pro](https://www.apple.com/final-cut-pro/)
 

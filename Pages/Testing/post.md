@@ -27,6 +27,10 @@ for dir in */; do
   cd ..
 done
 ```
+This is a test <br>
+<details>
+This is a test, I hope it worked
+</details>
 
 [^1]: pls leave
 

@@ -41,12 +41,21 @@ True crime... casually done. Fact boy gives you new episodes on Mondays and Frid
 
 ### The Wan Show
 
-Posts: Every Fri (YouTube) / Mon (podcast) <br>
+Posts: Every Fri (Live) / Mon (podcast) <br>
 Length: 2 - 3hr
 
 Every week Linus and Luke discuss the most current happenings in the technology universe
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-wan-show/id1062997995) | [Overcast](https://overcast.fm/itunes1062997995/the-wan-show) | [PocketCasts](https://pca.st/wanshow) | [Youtube](https://www.youtube.com/@LinusTechTips/streams)
+
+### Waveform
+
+Posts: Every Fri
+Length: ~80min
+
+A tech podcast for the gadget lovers and tech heads among us from the mind of Marques Brownlee, better known as MKBHD. MKBHD has made a name for himself on YouTube reviewing everything from the newest smartphones to cameras to electric cars. Pulling from over 10 years of experience covering the tech industry, MKBHD and co-hosts Andrew Manganelli and David Imel will keep you informed and entertained as they take a deep dive into the latest and greatest in tech and what deserves your hard earned cash. New episodes every week. Waveform is part of the Vox Media Podcast Network
+
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/waveform-the-mkbhd-podcast/id1474429475) | [Overcast](https://overcast.fm/itunes1474429475/waveform-the-mkbhd-podcast) | [Pocketcasts](https://pca.st/MKBHD) | [Youtube](https://www.youtube.com/@Waveform/featured)
 
 ### Liftoff (Simi-Active)
 
