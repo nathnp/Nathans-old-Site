@@ -1,7 +1,6 @@
 Title: Things I Use
 Link: /things-i-use
 Menu: Yes
-<a rel=“me” href=“https://crabland.social/@Nathan”></a>
 
 # Things I Use
 
@@ -66,7 +65,7 @@ Clipboard History: [Pastebot](https://tapbots.com/pastebot/)
 
 RSS: [Miniflux](https://miniflux.app) / [Reeder 5](https://www.reederapp.com)
 
-Podcasts: [Overcast](https://overcast.fm)
+Podcast Client: [Overcast](https://overcast.fm)
 
 Video Downloader: [Downie](https://software.charliemonroe.net/downie)
 
@@ -80,7 +79,7 @@ FTP Client: [Tansmit 5](https://panic.com/transmit/)
 
 Text Editor: [Nova](https://nova.app)
 
-Flight Tracker [Flighty](https://flightyapp.com)
+Flight Tracker: [Flighty](https://flightyapp.com)
 
 Task Manager: [Todoist](https://todoist.com)
 <div id="webtools" />

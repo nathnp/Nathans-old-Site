@@ -39,15 +39,6 @@ True crime... casually done. Fact boy gives you new episodes on Mondays and Frid
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-casual-criminalist/id1545318164) | [Overcast](https://overcast.fm/itunes1545318164/the-casual-criminalist) | [PocketCasts](https://pca.st/tipuxr73) | [Youtube](https://www.youtube.com/@TheCasualCriminalist)
 
-### The Wan Show
-
-Posts: Every Fri (Live) / Mon (podcast) <br>
-Length: 2 - 3hr
-
-Every week Linus and Luke discuss the most current happenings in the technology universe
-
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-wan-show/id1062997995) | [Overcast](https://overcast.fm/itunes1062997995/the-wan-show) | [PocketCasts](https://pca.st/wanshow) | [Youtube](https://www.youtube.com/@LinusTechTips/streams)
-
 ### Waveform
 
 Posts: Every Fri
