@@ -7,6 +7,6 @@ If for some terrifying reason you like this crap, you can subscribe with the met
 
 RSS: [https://nthp.me/feed.rss](https://nthp.me/feed.rss)
 
-Or follow me on my mastodon far more bite sized stuff. [@nathan@mstdn.nthp.me](https://mstdn.nthp.me/@nathan)
+Or follow me on my mastodon for far more bite sized stuff. [@nathan@mstdn.nthp.me](https://mstdn.nthp.me/@nathan)
 
 Any opinions expressed here are entirely my own, not of my employer(s) or third party.

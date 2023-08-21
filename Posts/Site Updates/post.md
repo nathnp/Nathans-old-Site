@@ -25,11 +25,15 @@ This page has been updated bit by bit over time. I added links for most of the s
 
 ## New Site [🔗](#newsite)
 
+Crabland has shutdown (and so has it's site), but you can still read this section if you want to.
+
+<details>
 For those that don't know, I run a Mastodon server. [Crabland.social](https://crabland.social). Crabland is a Maryland themed general server. To help give the server an actual face to point people to so they can learn more, I fired up [info.crabland.social](https://info.crabland.social). Its hosted using [blot.im](https://blot.im), same as this site. That made it super easy to get up and running, as I'm already used to the blot workflow.
 
 The site has some basic things. The home page to try and sell (not for money, sell as in getting sign ups) the server. A page with the admins (just [me](https://info.crabland.social/admins/nathan) right now.). A status page, that you can also get to by going to [status.crabland.social](https://status.crabland.social). The server rules. And a blog / updates page.
 
 There's also a [donate](https://info.crabland.social/donate) page, that breaks down [how much it costs to run Crabland](https://info.crabland.social/costs).
+</details>
 <div id="newworkflow" />
 
 ## New Workflow [🔗](#newworkflow)
