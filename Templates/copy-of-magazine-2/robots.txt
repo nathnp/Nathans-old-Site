@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: {{{blogURL}}}/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
