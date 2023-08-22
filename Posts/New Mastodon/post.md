@@ -1,7 +1,7 @@
 Title: New Mastodon Handle
 Date: 2023-08-21 12:30 EDT
 Draft: No
-Tags: Short Post
+Tags: Short Post, Air Craziness
 
 # New Mastodon Handle
 

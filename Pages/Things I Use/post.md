@@ -25,11 +25,13 @@ Keyboard: [WASD VP3 w/ MX Blues](https://www.wasdkeyboards.com/wasd-vp3-61-key-d
 
 Mouse: [Logitech G502 Light Speed](https://www.logitechg.com/en-us/products/gaming-mice/g502-lightspeed-wireless-gaming-mouse.910-005565.html) w/ [Powerplay charging pad](https://www.logitechg.com/en-us/products/gaming-mouse-pads/powerplay-wireless-charging.943-000109.html)
 
+Headphones: Sony Wh1000-XM4[^2]
+
 Gaming: 512GB [Steam Deck](https://www.steamdeck.com/en/) Modded to 2TB + [PS5](https://www.playstation.com/en-us/ps5/)
 
 VR: [PSVR2](https://www.playstation.com/en-us/ps-vr2/?smcid=pdc%3Aen-us%3Aaccessories%3Aprimary%20nav%3Amsg-hardware%3Aps-vr2) on [PS5](https://www.playstation.com/en-us/ps5/)
 
-Car: 2015 [Honda](https://youtu.be/w9KYDQry2nQ) Accord Coupe EX-L w/ 2.4L I-VTEC w/ CVT[^2]
+Car: 2015 [Honda](https://youtu.be/w9KYDQry2nQ) Accord Coupe EX-L w/ 2.4L I-VTEC w/ CVT[^3]
 
 Aircraft: DJI Mavic air 2 / DJI FPV
 <div id="servers" />
@@ -93,4 +95,5 @@ Email to RSS: [Kill The Newsletter](https://kill-the-newsletter.com)
 Note: **None** of these link are affiliate links
 
 [^1]: ![](_pics/fig1.jpeg)
-[^2]: With bonus dog, Ruby <br> ![](_pics/fig2.jpeg)
+[^2]: Learn to name stuff Sony
+[^3]: With bonus dog, Ruby <br> ![](_pics/fig2.jpeg)
