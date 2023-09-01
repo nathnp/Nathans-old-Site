@@ -2,7 +2,7 @@ Link: /
 Menu: No
 Page: Yes
 
-<center> ![](_Files/fig1.png)
+<center> ![](_Files/fig2.png)
 
 # Hi, I'm Nathan
 

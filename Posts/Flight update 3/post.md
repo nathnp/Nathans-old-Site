@@ -1,7 +1,7 @@
 Title: Flight Update 3
 Date: 2023-08-21 19:16 EDT
 Draft: No
-Tags: Short Post, Air Craziness
+Tags: Short Post, Air Craziness, Flying
 
 # Flight Update 3
 
@@ -15,6 +15,8 @@ The second one was Swissair flight 111, a flight that had a fire. <br>
 The third was about BA 162, a flight that caught... fire...
 
 No, not all of them are about fires, here's all the ones I downloaded
+
+<div id="list" />
 	
 ```
 19 SECONDS from Collision | Easyjet 6074.mp4

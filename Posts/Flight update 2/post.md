@@ -1,7 +1,7 @@
 Title: Flight Update 2
 Date: 2023-08-21 16:40 EDT
 Draft: No
-Tags: Short Post, Air Craziness
+Tags: Short Post, Air Craziness, Flying
 
 # Flight Update 2
 
