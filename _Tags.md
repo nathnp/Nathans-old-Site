@@ -2,6 +2,8 @@
 
 Short Post
 
+Thoughts
+
 Air Craziness
 
 Geocaching

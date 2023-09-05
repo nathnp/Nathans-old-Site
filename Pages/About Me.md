@@ -1,7 +1,11 @@
-About Me
+Title: About Me
+Link: /about-me
+Menu: Yes
 
-This is my blog. I mostly use this place as a place to post longer form content. Mostly of me rambling of about something.
-Posts here will mostly be about things I’m interested in (aircraft, space, speedcubing, my little pony (yes), computers, etc), or whatever is on my mind.
+# About Me
+
+This is my blog. I mostly use this place as a place to post longer form content. Mostly of me rambling off about something.
+Posts here will mostly be about things I’m interested in, or whatever is on my mind.
 
 If for some terrifying reason you like this crap, you can subscribe with the method(s) below.
 

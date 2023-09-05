@@ -50,7 +50,7 @@ Every week Linus and Luke discuss the most current happenings in the technology 
 
 ### Waveform
 
-Posts: Every Fri
+Posts: Every Friday <br>
 Length: ~80min
 
 A tech podcast for the gadget lovers and tech heads among us from the mind of Marques Brownlee, better known as MKBHD. MKBHD has made a name for himself on YouTube reviewing everything from the newest smartphones to cameras to electric cars. Pulling from over 10 years of experience covering the tech industry, MKBHD and co-hosts Andrew Manganelli and David Imel will keep you informed and entertained as they take a deep dive into the latest and greatest in tech and what deserves your hard earned cash. New episodes every week. Waveform is part of the Vox Media Podcast Network
@@ -59,7 +59,7 @@ A tech podcast for the gadget lovers and tech heads among us from the mind of Ma
 
 ### Liftoff (Simi-Active)
 
-Posts: When something big happens
+Posts: When something big happens <br>
 Length: ~30min
 
 Liftoff is a podcast about space, the universe, and everything. You don’t need to be a rocket scientist to understand the major developments as explained by enthusiastic space fans Stephen Hackett and Jason Snell. Hosted by Jason Snell and Stephen Hackett.

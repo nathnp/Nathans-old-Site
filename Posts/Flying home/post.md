@@ -7,7 +7,7 @@ Tags: Flying
 
 ## DEN to IND
 
-On my way back home, currently on a flight form DED to IND. No problems with this one, unlike my flight out. [Read about that here](https://nthp.me/tagged/air-craziness)
+On my way back home, currently on a flight from DED to IND. No problems with this one, unlike my flight out. [Read about that here](https://nthp.me/tagged/air-craziness)
 
 Unfortunately, unlike this leg, not all is well with me. I fell pretty ill last night, and was wondering if I was going to be fit to fly the next morning. <br>
 I'm not going to go into details, but it wasn't good. Thankfully, today I am just barely fit to fly. I do wish that I brought a hoodie with me, but Unfortunately, I did [not](https://www.youtube.com/watch?v=EmL3lS0-Sr8). I was hoping to pick one up at the airport, but they didn't have any in my size. I'll check at check IND.
