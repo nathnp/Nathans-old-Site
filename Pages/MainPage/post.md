@@ -2,12 +2,14 @@ Link: /
 Menu: No
 Page: Yes
 
-<center> ![](_Files/fig2.png)
-
 # Hi, I'm Nathan
 
+<center> 
+
+![](_Files/fig2.png)
+
 I am a person who enjoys many things, including:
-Geocaching, Servers, ARM systems, UNIX, LINUX, Flying, UASs[^1], Transit Systems, Physical Security, and much more.
+Geocaching, Servers, ARM systems, UNIX, LINUX, Flying, UASs[^1], Transit Systems, and much more.
 
 You can read my [Blog](https://nthp.me/page/1) or follow me on <a rel="me" href="https://mstdn.nthp.me/@nathan">Mastodon</a> where I post much more often. Also check out my [Flickr](https://www.flickr.com/photos/197704187@N04/) where I post my photos. Source files for this site can be found [here](https://github.com/nathnp/Nathans-Site)
 

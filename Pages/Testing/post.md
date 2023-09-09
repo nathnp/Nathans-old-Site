@@ -50,3 +50,22 @@ This is a test, I hope it worked
 | Tray Table     | Yes          | Lol, No      |
 
 ![](https://banners-my.flightradar24.com/Nthp.png)
+
+> Test
+
+<button onclick="copy1()">Copy text</button>
+
+<script>
+   function Copy1() {
+   
+     // Select the text field
+     copyText.select(); 
+     copyText.setSelectionRange(0, 99999); // For mobile devices
+   
+      // Copy the text inside the text field
+     navigator.clipboard.writeText("test");
+   
+     // Alert the copied text
+     alert("Copied the text: test");
+   }
+</script>

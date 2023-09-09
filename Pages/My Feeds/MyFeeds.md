@@ -94,6 +94,8 @@ If you think you know the story of the Tylenol Murders, think again. Award-winni
 
 ### [XKCD](xkcd.com)
 
+### [Factorio Blog](https://factorio.com/blog/)
+
 ### [Luke's Wild Website](https://www.lkhrs.com)
 
 ### [Kev Quirk](https://kevquirk.com)
