@@ -6,7 +6,7 @@ Menu: No
 
 You found my testing page, where I test things, welcome[^1]
 
-This is a test[^2]
+This is a test, hello[^2]
 
 Test pic [^pic]
 

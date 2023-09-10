@@ -92,7 +92,7 @@ Email to RSS: [Kill The Newsletter](https://kill-the-newsletter.com)
 
 <br>
 
-Note: **None** of these link are affiliate links
+Note: **None** of these links are affiliate links, I paid for all of the items listed here
 
 [^1]: ![](_pics/fig1.jpeg)
 [^2]: Learn to name stuff Sony
