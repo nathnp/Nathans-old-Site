@@ -90,6 +90,8 @@ Task Manager: [Todoist](https://todoist.com)
 
 Email to RSS: [Kill The Newsletter](https://kill-the-newsletter.com)
 
+Post Scheduling Tool: [Buffer](https://buffer.com)
+
 <br>
 
 Note: **None** of these links are affiliate links, I paid for all of the items listed here
