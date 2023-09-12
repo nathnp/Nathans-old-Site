@@ -1,0 +1,8 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/bash\n\ncp ~\/websites\/nathanssite\/_tags.md _tags.md\ncp -r ~\/websites\/nathanssite\/_Files\/ _Files\/\ncp -r ~\/websites\/nathanssite\/Pages\/ Pages\/\ncp -r ~\/websites\/nathanssite\/Posts\/ Posts\/\n\ncd Pages\/\nrm -rf gifs\/"
+    }
+  }
+}
