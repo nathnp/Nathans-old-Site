@@ -4,6 +4,8 @@ Menu: Yes
 
 # About Me
 
+I'm Nathan, I'm a computer nerd who loves to travel and do many other things.
+
 This is my blog. I mostly use this place as a place to post longer form content. Mostly of me rambling off about something.
 Posts here will mostly be about things I’m interested in, or whatever is on my mind.
 
