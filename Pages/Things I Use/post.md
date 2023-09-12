@@ -4,12 +4,12 @@ Menu: Yes
 
 # Things I Use
 
-Jump to: [Hardware](#hardware) | [Home Servers](#servers) | [Software](#software) | [Web Tools](#webtools)
+Jump to: [Hardware](#hardware) | [Home Servers](#servers) | [Software](#software) | [Web Tools](#webtools) | [Disclaimer](#disclaimer)
 
 For a list of podcasts and blogs I like, go [here](/my-feeds).
 <div id="hardware" />
 
-## Hardware [🔗](/things-i-use#hardware)
+## Hardware [🔗](#hardware)
 
 Phone: [iPhone 14 Pro](https://support.apple.com/kb/SP875?viewlocale=en_US&locale=en_US) in Space Black w/ 256GB Storage
 
@@ -17,7 +17,7 @@ Tablet: [6th gen iPad mini](https://support.apple.com/kb/SP850?locale=en_US)
 
 Watch: [Apple Watch Ultra](https://support.apple.com/kb/SP879?locale=en_US)
 
-Laptop: [Late 2020 M1 MacBook Pro](https://support.apple.com/kb/SP824?locale=en_US) w/ 16GB Ram and 512GB Storage
+Laptop: [Late 2020 M1 MacBook Pro](https://support.apple.com/kb/SP824?locale=en_US) w/ 16GB Ram and 512GB Storage in Space Gray
 
 Monitor: [LG UltraWide 35WN75C](https://www.lg.com/us/monitors/lg-35wn75c-b-ultrawide-monitor)
 
@@ -36,7 +36,7 @@ Car: 2015 [Honda](https://youtu.be/w9KYDQry2nQ) Accord Coupe EX-L w/ 2.4L I-VTEC
 Aircraft: DJI Mavic air 2 / DJI FPV
 <div id="servers" />
 
-### Home Servers [🔗](/things-i-use#servers)
+### Home Servers [🔗](#servers)
 
 NAS: [Synology DS418](https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/18-year/DS418/enu/Synology_DS418_Data_Sheet_enu.pdf) w/ 8.7 TB storage using [SHR](https://kb.synology.com/en-us/DSM/tutorial/What_is_Synology_Hybrid_RAID_SHR)
 
@@ -47,7 +47,7 @@ Home Auto Protocol Translation Server: Raspberry Pi 3
 UniFi Console: [Cloudkey Gen 2 Plus](https://store.ui.com/us/en/products/unifi-cloudkey-plus)
 <div id="software" />
 
-## Software [🔗](/things-i-use#software)
+## Software [🔗](#software)
 
 OS: [macOS 13](https://en.wikipedia.org/wiki/MacOS_Ventura)
 
@@ -86,14 +86,14 @@ Flight Tracker: [Flighty](https://flightyapp.com)
 Task Manager: [Todoist](https://todoist.com)
 <div id="webtools" />
 
-## Web Tools [🔗](/things-i-use#webtools)
+## Web Tools [🔗](#webtools)
 
 Email to RSS: [Kill The Newsletter](https://kill-the-newsletter.com)
 
 Post Scheduling Tool: [Buffer](https://buffer.com)
 
 <br>
-
+<div id="disclaimer" /> - - -
 Note: **None** of these links are affiliate links, I paid for all of the items listed here
 
 [^1]: ![](_pics/fig1.jpeg)
