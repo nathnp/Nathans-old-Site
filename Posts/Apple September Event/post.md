@@ -46,6 +46,8 @@ Non pro users will now get the 48MP camera, and the Dynamic Island. Both fantast
 
 SOS via satellite is now getting roadside assistance through AAA[^2].
 
+Update: Roadside via satellite will also be available on iPhone 14, and 14 Pro
+
 The 15 also gets a new ultra wide band chip. With three times the range of the old one. That allows for precision finding of friends. That will be great for con goers
 
 The 15 as also killed off the Lightning port, and has replaced it with USB-C.
