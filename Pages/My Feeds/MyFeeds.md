@@ -103,3 +103,5 @@ If you think you know the story of the Tylenol Murders, think again. Award-winni
 ### [Mike Stone](https://mikestone.me)
 
 ### [Moddedbear](https://moddedbear.com)
+
+### [Factorio Blog](https://www.factorio.com/blog/)
