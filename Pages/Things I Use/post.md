@@ -33,7 +33,7 @@ VR: [PSVR2](https://www.playstation.com/en-us/ps-vr2/?smcid=pdc%3Aen-us%3Aaccess
 
 Car: 2015 [Honda](https://youtu.be/w9KYDQry2nQ) Accord Coupe EX-L w/ 2.4L I-VTEC w/ CVT[^3]
 
-Aircraft: DJI Mavic air 2 / DJI FPV
+Aircraft: DJI [Mavic air 2](https://www.dji.com/mavic-air-2/specs) / DJI [FPV](https://www.dji.com/dji-fpv/specs)
 <div id="servers" />
 
 ### Home Servers [🔗](#servers)
