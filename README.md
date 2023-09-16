@@ -14,4 +14,4 @@ This repo is meant to show how I use Blot, and as an example for those starting 
 
 If you would like to link to, or cite a page or post. Link to the main site, not here.
 
-(c) 2023 Nathan Palmer, All Rights Reserved 
+(c) 2023 Nathan Palmer, All Rights Reserved For Content Created By Nathan Palmer
