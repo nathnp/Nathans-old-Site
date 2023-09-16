@@ -1,6 +1,6 @@
 # Nathan's-Site
 
-![](/assets/fig1.png)
+![](/assets/fig2.png)
 
 These are the page source files for my website [nthp.me](https://nthp.me). This repo does not include post / page drafts, and a couple other things. This repo will lag behind the live site.
 
