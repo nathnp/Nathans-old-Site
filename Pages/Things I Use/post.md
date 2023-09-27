@@ -49,7 +49,7 @@ UniFi Console: [Cloudkey Gen 2 Plus](https://store.ui.com/us/en/products/unifi-c
 
 ## Software [🔗](#software)
 
-OS: [macOS 13](https://en.wikipedia.org/wiki/MacOS_Ventura)
+OS: [macOS 14](https://www.apple.com/macos/sonoma/)
 
 Email: [iCloud Mail](https://icloud.com) + [SimpleLogin](https://simplelogin.io)
 
