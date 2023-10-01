@@ -15,4 +15,4 @@ If you'd like to learn more here's a link to the [first post](https://rss.nthp.m
 
 Here's the [feed link](rss.nthp.me/feed.rss) if you'd like to subscribe.
 
-<a href="mailto:reply.13a8f@nthp.me?subject=Re: New Blog">Reply to this post via email</a>
+[Reply to this post via email](mailto:reply.13a8f@nthp.me?subject=Re: New Blog)
