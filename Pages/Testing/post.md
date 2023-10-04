@@ -28,8 +28,11 @@ for dir in */; do
 done
 ```
 This is a test <br>
-<details>
+
+<details> <summary>Test</summary>
+
 This is a test, I hope it worked
+
 </details>
 
 [^1]: pls leave
