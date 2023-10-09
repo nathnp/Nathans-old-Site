@@ -8,7 +8,7 @@ The template I use is a modified copy of [Magazine](https://github.com/davidmerf
 
 The site is hosted using [blot.im](https://blot.im).
 
-If you spot a typo, open an issue, or hit me up on [Mastodon](https://mstdn.nthp.me/@Nathan) ``` @nathan@mstdn.nthp.me ```
+If you spot a typo, open an issue, or hit me up on [Mastodon](https://fosstodon.org/@nthp) ``` @nthp@fosstodon.org ```
 
 This repo is meant to show how I use Blot, and as an example for those starting to use Blot.
 

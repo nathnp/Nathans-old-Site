@@ -12,7 +12,7 @@ Posts here will mostly be about things I’m interested in, or whatever is on my
 If for some terrifying reason you like this crap, you can subscribe via [RSS](https://nthp.me/feed.rss).
 
 Or follow me on Mastodon for far more bite sized stuff. <br>
-[@nathan@mstdn.nthp.me](https://mstdn.nthp.me/@nathan)[^1] <br>
+[@nthp@fosstodon.org](https://fosstodon.org/@nthp)[^1] <br>
 If you don't have a Mastodon account, you can find a server, and sign up [here](https://joinmastodon.org/servers)
 
 What is Mastodon? Click the dropdown to learn more. <br>
