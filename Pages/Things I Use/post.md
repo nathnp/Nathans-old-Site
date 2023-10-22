@@ -33,6 +33,8 @@ VR: [PSVR2](https://www.playstation.com/en-us/ps-vr2/?smcid=pdc%3Aen-us%3Aaccess
 
 Car: 2015 [Honda](https://youtu.be/w9KYDQry2nQ) Accord Coupe EX-L w/ 2.4L I-VTEC w/ CVT[^3]
 
+Geocaching GPS: [GARMIN GPSMAP 64sx](https://www.garmin.com/en-US/p/669284)
+
 Aircraft: DJI [Mavic air 2](https://www.dji.com/mavic-air-2/specs) / DJI [FPV](https://www.dji.com/dji-fpv/specs)
 <div id="servers" />
 
@@ -49,19 +51,19 @@ UniFi Console: [Cloudkey Gen 2 Plus](https://store.ui.com/us/en/products/unifi-c
 
 ## Software [🔗](#software)
 
-OS: [macOS 14](https://www.apple.com/macos/sonoma/)
+OS: macOS 13
 
 Email: [iCloud Mail](https://icloud.com) + [SimpleLogin](https://simplelogin.io)
 
 Cloud Storage: [iCloud](https://icloud.com) + [Synology DSM](https://www.synology.com/en-us/dsm)
-
-Mastodon Server: [Masto.host](https://masto.host)
 
 Mastodon Client: [Ivory for iOS](https://tapbots.com/ivory/), and [Mac](https://tapbots.com/ivory/mac/), sometimes [Toot CLI](https://github.com/ihabunek/toot)
 
 This Website: [Blot.im](https://blot.im) w/ Git
 
 DNS: [Pi-Hole](https://pi-hole.net)
+
+Geocaching Programs: [Cachly](https://apps.apple.com/us/app/cachly-geocaching/id645384141) for iOS, [iCaching](https://apps.apple.com/us/app/icaching/id420484346?mt=12) for Mac
 
 Clipboard History: [Pastebot](https://tapbots.com/pastebot/)
 
