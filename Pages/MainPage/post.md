@@ -19,7 +19,7 @@ Subscribe to my hidden RSS only [blog](https://rss.nthp.me/feed.rss)
 
 If you need to get in touch, you can [contact](https://nthp.me/contact) me [here](mailto:contact.g2wkb@nthp.me).
 
-Note: This site does have analytics enabled, these are purely for my own curiosity
+Note: This site does have analytics enabled using [plausible](https://plausible.io), these are purely for my own curiosity
 
 [^1]: I am licensed by the [FAA](https://www.faa.gov) under [14CFR107](https://www.faraim.org/faa/far/cfr/title-14/part-107/index.html) for commercial operation  
 
