@@ -57,7 +57,7 @@ Email: [iCloud Mail](https://icloud.com) + [SimpleLogin](https://simplelogin.io)
 
 Cloud Storage: [iCloud](https://icloud.com) + [Synology DSM](https://www.synology.com/en-us/dsm)
 
-Mastodon Client: [Ivory for iOS](https://tapbots.com/ivory/), and [Mac](https://tapbots.com/ivory/mac/), sometimes [Toot CLI](https://github.com/ihabunek/toot)
+Mastodon Client: [Mona for iOS](https://mastodon.social/@MonaApp), sometimes [Toot CLI](https://github.com/ihabunek/toot)
 
 This Website: [Blot.im](https://blot.im) w/ Git
 
@@ -67,7 +67,7 @@ Geocaching Programs: [Cachly](https://apps.apple.com/us/app/cachly-geocaching/id
 
 Clipboard History: [Pastebot](https://tapbots.com/pastebot/)
 
-RSS: [Miniflux](https://miniflux.app) / [Reeder 5](https://www.reederapp.com)
+RSS: [Reeder 5](https://www.reederapp.com)
 
 Podcast Client: [Overcast](https://overcast.fm)
 
