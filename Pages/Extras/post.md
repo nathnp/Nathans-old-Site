@@ -7,7 +7,7 @@ Menu: Yes
 
 ## [States I've Been To](/states)
 
-A map of states that I have been to, and done something in (i.e. Something other than drive straight though, or changing planes)
+A map of states that I have been to, and did something in (i.e. Something other than drive straight though, or changing planes)
 
 ## [Factorio Blueprints](/factorio/prints)
 
