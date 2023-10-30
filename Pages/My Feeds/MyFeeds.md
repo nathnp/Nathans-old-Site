@@ -48,15 +48,6 @@ Every week Linus and Luke discuss the most current happenings in the technology 
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-wan-show/id1062997995) | [Overcast](https://overcast.fm/itunes1062997995/the-wan-show) | [PocketCasts](https://pca.st/wanshow) | [Youtube](https://www.youtube.com/@LinusTechTips/streams)
 
-### Waveform
-
-Posts: Every Friday <br>
-Length: ~80min
-
-A tech podcast for the gadget lovers and tech heads among us from the mind of Marques Brownlee, better known as MKBHD. MKBHD has made a name for himself on YouTube reviewing everything from the newest smartphones to cameras to electric cars. Pulling from over 10 years of experience covering the tech industry, MKBHD and co-hosts Andrew Manganelli and David Imel will keep you informed and entertained as they take a deep dive into the latest and greatest in tech and what deserves your hard earned cash. New episodes every week. Waveform is part of the Vox Media Podcast Network
-
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/waveform-the-mkbhd-podcast/id1474429475) | [Overcast](https://overcast.fm/itunes1474429475/waveform-the-mkbhd-podcast) | [Pocketcasts](https://pca.st/MKBHD) | [Youtube](https://www.youtube.com/@Waveform/featured)
-
 ### Liftoff (Simi-Active)
 
 Posts: When something big happens <br>
@@ -75,7 +66,7 @@ Length: ~90min
 
 CGP Grey and Brady Haran talk about YouTube, life, work, whatever.
 
-[Apple Podcasts](https://podcasts.apple.com/us/podcast/hello-internet/id811377230) | [Overcast](https://overcast.fm/itunes811377230/hello-internet) | [PocketCasts](https://pca.st/hellointernet)
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/hello-internet/id811377230) | [Overcast](https://overcast.fm/itunes811377230/hello-internet) | [PocketCasts](https://pca.st/hellointernet) | [YouTube](https://www.youtube.com/@HelloInternetPodcast/videos)
 
 ### Unsealed: The Tylenol Murders (Finished)
 
@@ -103,5 +94,3 @@ If you think you know the story of the Tylenol Murders, think again. Award-winni
 ### [Mike Stone](https://mikestone.me)
 
 ### [Moddedbear](https://moddedbear.com)
-
-### [Factorio Blog](https://www.factorio.com/blog/)
