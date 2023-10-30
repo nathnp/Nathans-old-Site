@@ -13,9 +13,9 @@ Geocaching, Servers, ARM systems, UNIX, LINUX, Flying, UASs[^1], Transit Systems
 
 You can read my [Blog](https://nthp.me/page/1) or follow me on <a rel="me" href="https://fosstodon.org/@nthp">Mastodon</a> where I post much more often. Also check out my [Flickr](https://www.flickr.com/photos/197704187@N04/) where I post my photos. Page source files for this site can be found [here](https://github.com/nathnp/Nathans-Site)
 
-Subscribe via [RSS](https://nthp.me/feed.rss) <br>
-You can subscribe to site updates [here](https://github.com/nathnp/Nathans-Site/commits/main.atom) <br>
-Subscribe to my hidden RSS only [blog](https://rss.nthp.me/feed.rss)
+Subscribe to: <br>
+My [Blog](/blog) | [RSS](https://nthp.me/feed.rss) <br>
+My [Hidden Blog](https://rss.nthp.me) | [RSS](https://rss.nthp.me/feed.rss)
 
 If you need to get in touch, you can [contact](https://nthp.me/contact) me [here](mailto:contact.g2wkb@nthp.me).
 
