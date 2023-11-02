@@ -39,6 +39,15 @@ True crime... casually done. Fact boy gives you new episodes on Mondays and Frid
 
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-casual-criminalist/id1545318164) | [Overcast](https://overcast.fm/itunes1545318164/the-casual-criminalist) | [PocketCasts](https://pca.st/tipuxr73) | [Youtube](https://www.youtube.com/@TheCasualCriminalist)
 
+### The Asianometry Podcast
+
+Posts: Every Week <br>
+Length: ~20min
+
+An audio version of the Asianometry YouTube channel. Maybe it will be more in the future. www.asianometry.com
+
+[Apple Podcasts](https://podcasts.apple.com/us/podcast/the-asianometry-podcast/id1570778691) | [Overcast](https://overcast.fm/itunes1570778691/the-asianometry-podcast) | [PocketCasts](https://pca.st/oe7bbyya)
+
 ### The Wan Show
 
 Posts: Every Fri (Live) / Mon (podcast) <br>
